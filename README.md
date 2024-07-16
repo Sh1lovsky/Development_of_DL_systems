@@ -26,7 +26,7 @@ If at the end the download is finished like this — everything is ok:
 Your results can be viewed in the folder /workdir/output_test/overlay
 
 
-* First look at the _CONTAINER_ID_ launched from _IMAGE_ shilovski/dl_cerberus:ulti-arch
+* First look at the _CONTAINER_ID_ launched from _IMAGE_ shilovski/dl_cerberus:multi-arch
 ```
 docker ps -a
 ```
